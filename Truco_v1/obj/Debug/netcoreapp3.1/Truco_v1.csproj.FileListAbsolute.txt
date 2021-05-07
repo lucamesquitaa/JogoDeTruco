@@ -1,0 +1,26 @@
+C:\Users\luca.mesquita\Desktop\PROJETOS VS\Truco_v1\Truco_v1\obj\Debug\netcoreapp3.1\Truco_v1.csprojAssemblyReference.cache
+C:\Users\luca.mesquita\Desktop\PROJETOS VS\Truco_v1\Truco_v1\obj\Debug\netcoreapp3.1\Truco_v1.AssemblyInfoInputs.cache
+C:\Users\luca.mesquita\Desktop\PROJETOS VS\Truco_v1\Truco_v1\obj\Debug\netcoreapp3.1\Truco_v1.AssemblyInfo.cs
+C:\Users\luca.mesquita\Desktop\PROJETOS VS\Truco_v1\Truco_v1\obj\Debug\netcoreapp3.1\Truco_v1.csproj.CoreCompileInputs.cache
+C:\Users\luca.mesquita\Desktop\PROJETOS VS\Truco_v1\Truco_v1\bin\Debug\netcoreapp3.1\Truco_v1.exe
+C:\Users\luca.mesquita\Desktop\PROJETOS VS\Truco_v1\Truco_v1\bin\Debug\netcoreapp3.1\Truco_v1.deps.json
+C:\Users\luca.mesquita\Desktop\PROJETOS VS\Truco_v1\Truco_v1\bin\Debug\netcoreapp3.1\Truco_v1.runtimeconfig.json
+C:\Users\luca.mesquita\Desktop\PROJETOS VS\Truco_v1\Truco_v1\bin\Debug\netcoreapp3.1\Truco_v1.runtimeconfig.dev.json
+C:\Users\luca.mesquita\Desktop\PROJETOS VS\Truco_v1\Truco_v1\bin\Debug\netcoreapp3.1\Truco_v1.dll
+C:\Users\luca.mesquita\Desktop\PROJETOS VS\Truco_v1\Truco_v1\bin\Debug\netcoreapp3.1\Truco_v1.pdb
+C:\Users\luca.mesquita\Desktop\PROJETOS VS\Truco_v1\Truco_v1\obj\Debug\netcoreapp3.1\Truco_v1.dll
+C:\Users\luca.mesquita\Desktop\PROJETOS VS\Truco_v1\Truco_v1\obj\Debug\netcoreapp3.1\Truco_v1.pdb
+C:\Users\luca.mesquita\Desktop\PROJETOS VS\Truco_v1\Truco_v1\obj\Debug\netcoreapp3.1\Truco_v1.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Truco_v1\Truco_v1\obj\Debug\netcoreapp3.1\Truco_v1.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Truco_v1\Truco_v1\obj\Debug\netcoreapp3.1\Truco_v1.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Truco_v1\Truco_v1\obj\Debug\netcoreapp3.1\Truco_v1.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Truco_v1\Truco_v1\obj\Debug\netcoreapp3.1\Truco_v1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Truco_v1\Truco_v1\bin\Debug\netcoreapp3.1\Truco_v1.exe
+C:\Users\USUARIO\Desktop\Truco_v1\Truco_v1\bin\Debug\netcoreapp3.1\Truco_v1.deps.json
+C:\Users\USUARIO\Desktop\Truco_v1\Truco_v1\bin\Debug\netcoreapp3.1\Truco_v1.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Truco_v1\Truco_v1\bin\Debug\netcoreapp3.1\Truco_v1.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\Truco_v1\Truco_v1\bin\Debug\netcoreapp3.1\Truco_v1.dll
+C:\Users\USUARIO\Desktop\Truco_v1\Truco_v1\bin\Debug\netcoreapp3.1\Truco_v1.pdb
+C:\Users\USUARIO\Desktop\Truco_v1\Truco_v1\obj\Debug\netcoreapp3.1\Truco_v1.dll
+C:\Users\USUARIO\Desktop\Truco_v1\Truco_v1\obj\Debug\netcoreapp3.1\Truco_v1.pdb
+C:\Users\USUARIO\Desktop\Truco_v1\Truco_v1\obj\Debug\netcoreapp3.1\Truco_v1.genruntimeconfig.cache
